@@ -1,9 +1,10 @@
-__pycache__/
-*.pyc
-node_modules/
-sentiment-analysis-demo/
-.git/
 backend/saved_models/
 frontend/node_modules/
+
 __pycache__/
 *.pyc
+
+.env
+*.log
+
+sentiment-analysis-demo/
